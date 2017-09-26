@@ -1,0 +1,14 @@
+{
+    "name": "isu3ru/simple-owm-client",
+    "description": "Simple Open Weather Map Api Client for free weather map api from openweathermap.org",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isuru Ranawaka",
+            "email": "isu3ru@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
