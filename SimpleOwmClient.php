@@ -3,11 +3,11 @@
 namespace Isu3ru\Apis;
 
 class SimpleOwmClient {
-    const API_KEY = '97855c6789d3a9e920b0c782b2423967';
+    const API_KEY = '';
 
     //no trailing slash
     const URL = 'http://api.openweathermap.org/data/2.5/weather';
-    const CITY_NAME = 'Colombo,lk';
+    const CITY_NAME = '';
     const UNIT_TYPE = 'metric';
     var $isCached = FALSE;
 
