@@ -1,4 +1,5 @@
 <?php
+require 'vendor/autoload.php';
 
 namespace Isu3ru\Apis;
 
