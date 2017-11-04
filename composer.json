@@ -1,0 +1,29 @@
+{
+    "name": "isu3ru/simpleowmclient",
+    "description": "Simple Open Weather Map Api Client for free weather map api from openweathermap.org",
+    "keywords": ["openweathermap", "weather", "client"],
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Isuru Ranawaka",
+            "email": "isu3ru@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": ">=5.4"
+    },
+	"autoload": {
+        "psr-4": {
+            "Isuru\\ApiClient\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Isuru\\ApiClient\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
