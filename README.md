@@ -1,15 +1,14 @@
-Composer Library Template
-=========================
+# SimpleOwmClient
+Simple Open Weather Map Api Client for free weather map api from openweathermap.org
 
-If you are trying to create a new PHP Composer library, whether it will be going to submitted to packagist.org or just in your Github account, this template of files will surely help you make the process a lot easier and faster.
+[![Build Status](https://travis-ci.org/isu3ru/SimpleOwmClient.svg?branch=master)](https://travis-ci.org/isu3ru/SimpleOwmClient)
 
-Features
---------
+## Installation
+- Download zip package and include in your project from https://github.com/isu3ru/simpleowmclient\
 
-* PSR-4 autoloading compliant structure
-* Unit-Testing with PHPUnit
-* Comprehensive Guides and tutorial
-* Easy to use to any framework or even a plain php file
+- Use composer
+	`composer require isu3ru/simpleowmclient`
 
+**Note:** This is is still a development version and not usable for production. Current release is for testing purposes only.
 
-I encourage that you put more information on this readme file instead of leaving it as is. See [http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/](How to make a README file) for more info.
+**Issues and Pull-requests through github is always appreciated.**
